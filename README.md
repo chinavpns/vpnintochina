@@ -1,6 +1,6 @@
 # 翻墙回国教程：最好用的回国VPN推荐，海外华人如何翻墙回国内获取大陆IP地址观看2024年法国巴黎奥运会中文解说直播
 
-***最近更新于：2024年7月22日***
+<p align="center">最近更新于：2024年7月22日</p>
 
 ![翻墙回国教程，最好用的回国VPN推荐](https://raw.githubusercontent.com/chinavpns/vpnintochina/main/image/%E7%BF%BB%E5%A2%99%E5%9B%9E%E5%9B%BD-%E5%9B%9E%E5%9B%BDVPN.jpg)
 
