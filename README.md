@@ -10,8 +10,8 @@
 
 如果你没有太多时间阅读完本文的话，可以直接查看下面这两款最佳的翻墙回国VPN：
 
-* **<a href="https://wallvpn.com/go/speedin/" rel="nofollow">快帆VPN</a>**：全球150多台加速线路，连接稳定且速度快，非常适合看视频和玩游戏等。
-* **<a href="https://wallvpn.com/go/transocks/" rel="nofollow">穿梭VPN</a>**：老牌回国VPN，多平台支持，价格相对便宜一点，性价比高。
+* **<a href="https://wallvpn.com/go/speedin/" rel="nofollow">快帆VPN</a>**：全球150多台加速线路，连接稳定且速度快，非常适合看视频和玩游戏等。（推荐指数：9.9/10）
+* **<a href="https://wallvpn.com/go/transocks/" rel="nofollow">穿梭VPN</a>**：老牌回国VPN，多平台支持，价格相对便宜一点，性价比高。（推荐指数：9.0/10）
 
 ## 为什么要翻墙回国？
 
