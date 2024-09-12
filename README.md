@@ -943,4 +943,4 @@ ExpressVPN、NordVPN 和 Surfshark 是全球最顶级的VPN服务商，它们在
 
 * <a href=https://github.com/chinavpns/cheapvpn.github.io>便宜VPN推荐</a>：2024年中国好用的便宜VPN推荐！本文会为大家推荐几款中国便宜好用的VPN软件，它们在安全性、连接速度、翻墙稳定性、兼容性、客户支持等方面表现优异，可以帮助你在中国自由上网。
 
-* <a href=https://chinavpns.gitbook.io/chinavpns>最好用的VPN排行</a>：本文为大家推荐2024年最好用的中国VPN，帮助用户找到适合自己的翻墙工具，确保在网络严控环境下依然能够自由、安全地访问全球互联网。
+* <a href=https://github.com/chinavpns/telegram>Telegram注册</a>：2024年国内手机号注册Telegram收不到验证码怎么办？本文还将会详细介绍如何下载、安装、注册和使用Telegram电报，并会为大家提供在中国使用Telegram电报的一些实用建议！
