@@ -962,7 +962,7 @@ ExpressVPN、NordVPN 和 Surfshark 是全球最顶级的VPN服务商，它们在
 
 ****
 
-## 其他相关文章：
+## 翻墙回国相关的其他文章：
 
 * <a href=https://chinavpns.github.io/>科学上网指南</a>、<a href=https://chinavpns.github.io/>翻墙VPN</a>和<a href=https://chinavpns.github.io/>翻墙软件</a>推荐：在这篇文章中，我们将详细地为大家介绍什么是科学上网，为什么要科学上网，以及如何科学上网！我们也基于中国大陆实测，为大家挑选了几款最好用的翻墙VPN，它们翻墙稳定，连接速度快，可以很好地兼容电脑、苹果手机、安卓手机等设备。
 
