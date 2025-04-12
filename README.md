@@ -132,7 +132,7 @@
 
 **2025年最新限时特惠**：使用我们独家专属的快帆兑换码（兑换码：wallvpn），在购买360天VIP套餐时，可额外获得180天赠送优惠，同时享受折上折优惠，360天VIP套餐再立减80元，**价格低至人民币22元/月**。如果你不知道如何使用快帆兑换码，请点击查看《<a href="https://github.com/chinavpns/speedin-vpn">快帆VPN评测</a>》。
 
-**<p align="center"><a href="https://wallvpn.com/go/speedin/" rel="nofollow">立即获取快帆VPN</a></p>**
+**<p align="center"><a href="https://wallvpn.com/go/speedin/" rel="nofollow">立即获取快帆VPN（22元/月）</a></p>**
 
 ### 快帆VPN怎么充值？
 
