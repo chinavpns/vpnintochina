@@ -1,6 +1,6 @@
 # 翻墙回国教程：最好用的回国VPN推荐，海外华人如何翻墙回国内获取大陆IP地址！
 
-<p align="center">最近更新于：2025年6月19日</p>
+<p align="center">最近更新于：2025年7月6日</p>
 
 ![翻墙回国教程，最好用的回国VPN推荐](https://raw.githubusercontent.com/chinavpns/vpnintochina/main/image/%E7%BF%BB%E5%A2%99%E5%9B%9E%E5%9B%BD-%E5%9B%9E%E5%9B%BDVPN.jpg)
 
@@ -871,3 +871,9 @@ GoLink作为一款主打海外华人回国加速服务的VPN工具，在市场�
 * <a href="https://github.com/chinavpns/hot-site">翻墙后看什么</a>：翻墙必看的国外社交、视频、音乐、新闻、游戏、学习、购物等网站推荐。
 
 * <a href="https://github.com/chinavpns/video-site">国外视频网站</a>：热门海外视频网站汇总，包括国外付费视频网站和受欢迎的免费视频网站。
+
+* <a href="https://github.com/chinavpns/overseas-live">国外直播平台</a>：详细盘点全球范围内最受欢迎的几大海外直播平台，并深入介绍它们各自的特色和优势。
+
+* <a href="https://github.com/chinavpns/torrent-site">BT种子网站</a>：除了推荐BT网站外，还会介绍几款好用的BT下载工具，帮助大家更好地下载BT种子资源。
+
+* <a href="https://github.com/chinavpns/movie-site">免费电影网站</a>：推荐最新海外免费看片网站，无广告、无需会员、速度快，支持中文字幕和高清播放。
