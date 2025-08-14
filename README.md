@@ -1,6 +1,6 @@
 # 翻墙回国教程：最好用的回国VPN推荐，海外华人如何翻墙回国内获取大陆IP地址！
 
-<p align="center">最近更新于：2025年8月8日</p>
+<p align="center">最近更新于：2025年8月14日</p>
 
 ![翻墙回国教程，最好用的回国VPN推荐](https://raw.githubusercontent.com/chinavpns/vpnintochina/main/image/%E7%BF%BB%E5%A2%99%E5%9B%9E%E5%9B%BD-%E5%9B%9E%E5%9B%BDVPN.jpg)
 
